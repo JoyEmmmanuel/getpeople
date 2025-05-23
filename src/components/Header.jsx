@@ -25,8 +25,7 @@ const Header = () => {
     <header className=" sticky top-0 z-50 bg-white dark:bg-gray-800 shadow-md">
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between py-4">
         <div className="flex items-center space-x-3">
-          <img src="/logo.png" alt="Logo" className="h-12 w-16" />
-          <h1 className="text-xl font-bold font-poppins">GetPeople</h1>
+        <h1 className="text-xl font-bold font-poppins">GetPeople</h1>
         </div>
 
         <button
